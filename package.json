@@ -1,0 +1,12 @@
+{
+  "name": "gso-music-application",
+  "version": "5.12.0",
+  "private": true,
+  "description": "Local browser music library application with first-class MP3, M4A/MP4 audio import, playback, tag reading, playlists, logs, and quiz modes.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
